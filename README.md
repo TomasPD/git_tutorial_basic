@@ -6,4 +6,6 @@ Esto es una modificacion
 
 Esto es una modificacion hecha en la version web de Github para practicar pull
 
-Linea agregada para demostracion de Github desktop
+Demo de pull desde Github Desktop
+
+Segunda demo desde github desktop
