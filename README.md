@@ -9,3 +9,5 @@ Esto es una modificacion hecha en la version web de Github para practicar pull
 Demo de pull desde Github Desktop
 
 Segunda demo desde github desktop
+
+Esta linea corresponde al uso del plug-in the VSC 
